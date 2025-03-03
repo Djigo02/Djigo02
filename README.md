@@ -4,14 +4,14 @@
 ---
 
 ## 🌟 À propos de moi
-Je suis un étudiant en troisième année de génie logiciel, passionné par le développement d'applications web et mobiles. J'ai une expertise particulière avec les technologies **Angular**, **Laravel**, et **Node.js**. Je suis constamment à la recherche de nouveaux défis pour développer mes compétences et contribuer à des projets innovants.
+Je suis un étudiant en master de génie logiciel, passionné par le développement d'applications web et mobiles. J'ai une expertise particulière avec les technologies **Angular**, **Laravel**, et **Node.js**. Je suis constamment à la recherche de nouveaux défis pour développer mes compétences et contribuer à des projets innovants.
 
 ---
 
 ## 🚀 Compétences Techniques
 
 - **Langages :** JavaScript, PHP, SQL
-- **Frameworks & CMS :** Angular, Laravel, Wordpress
+- **Frameworks & CMS :** Angular, Laravel, Wordpress, Flutter
 - **Outils & Technologies :** MySQL, Git, GitHub, Postman, ClickUp, Postgres
 - **Autres :** Déploiement Web, cPanel
 
@@ -44,7 +44,6 @@ Je suis un étudiant en troisième année de génie logiciel, passionné par le 
 
 - **Email :** [mouhamaddjigo0@gmail.com](mailto:mouhamaddjigo0@gmail.com)
 - **LinkedIn :** [Mouhamad DJIGO](https://www.linkedin.com/in/mouhamad-djigo/)
-- **Twitter :** [Mon Profil Twitter](https://x.com/DjigoMehmet)
 
 ---
 
